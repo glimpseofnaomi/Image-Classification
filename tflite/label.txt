@@ -1,0 +1,9 @@
+Bean
+Bitter_Gourd
+Brinjal
+Cabbage
+Carrot
+Cauliflower
+Cucumber
+Papaya
+Tomato
